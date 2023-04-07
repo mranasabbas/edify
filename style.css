@@ -1,0 +1,11 @@
+.shape{
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+    margin: 50px auto;
+    /* background-color: blueviolet; */
+    /* background: linear-gradient(-90deg, red, blue, green, gray); */
+    background: radial-gradient(red, blue 20%);
+    border-radius: 50% ;
+    box-shadow: 2px 2px 5px 10px black;
+}
